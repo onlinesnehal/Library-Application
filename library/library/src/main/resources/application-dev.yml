@@ -1,0 +1,4 @@
+spring :
+  info: Welcome to dev environment
+server:
+  port: 8081

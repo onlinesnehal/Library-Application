@@ -1,0 +1,4 @@
+spring :
+  info: Welcome to prod environment
+server:
+  port: 8081
